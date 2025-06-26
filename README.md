@@ -1,3 +1,3 @@
 **【使用しているCombineの技術】**
 
-「.debounce」「.flatMap」「Just」「.delay」「.eraseToAnyPublisher()」
+「.debounce」「.flatMap」「AnyPublisher」「Just」「.delay」「.eraseToAnyPublisher()」
