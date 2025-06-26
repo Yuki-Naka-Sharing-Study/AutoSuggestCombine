@@ -11,6 +11,7 @@
 		D11773702E0D007000D082F9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D117736F2E0D007000D082F9 /* ContentView.swift */; };
 		D11773722E0D007100D082F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D11773712E0D007100D082F9 /* Assets.xcassets */; };
 		D11773752E0D007100D082F9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D11773742E0D007100D082F9 /* Preview Assets.xcassets */; };
+		D117737C2E0D00B800D082F9 /* AutoCompleteViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D117737B2E0D00B800D082F9 /* AutoCompleteViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D117736F2E0D007000D082F9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D11773712E0D007100D082F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D11773742E0D007100D082F9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D117737B2E0D00B800D082F9 /* AutoCompleteViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoCompleteViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				D117736F2E0D007000D082F9 /* ContentView.swift */,
 				D11773712E0D007100D082F9 /* Assets.xcassets */,
 				D11773732E0D007100D082F9 /* Preview Content */,
+				D117737B2E0D00B800D082F9 /* AutoCompleteViewModel.swift */,
 			);
 			path = AutoSuggestCombine;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				D11773702E0D007000D082F9 /* ContentView.swift in Sources */,
 				D117736E2E0D007000D082F9 /* AutoSuggestCombineApp.swift in Sources */,
+				D117737C2E0D00B800D082F9 /* AutoCompleteViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
